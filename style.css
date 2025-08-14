@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #0a0a23;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.planet-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #1e1e40;
+  border-radius: 8px;
+}
+
+.vehicle-options {
+  margin-top: 10px;
+}
